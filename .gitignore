@@ -1,0 +1,5 @@
+#images
+*.png
+*.jpg
+
+*.DS_store
